@@ -5,17 +5,13 @@ url: '/advisory_board.html'
 
 ## TPRF Advisory Board
 
-The TPRF Advisory Board is for people who want to be connected to The Perl Foundation in a
-non-executive and non-operational capacity, providing the Board access to wider knowledge and experience, and seek
-support where needed.
+The TPRF Advisory Board is for people who want to be connected to The Perl Foundation in a non-executive and non-operational capacity, providing the Board access to wider knowledge and experience, and seek support where needed.
 
 Members are invited by the board and may include retired board members or specific key members of the wider community.
 
 ## What is the role of the Advisory Board?
 
-The role of the Advisory Board is to support TPRF Board in a non-voting capacity. The aim
-is to have access to tacit knowledge and experience. Apart from general dialogue
-between the members, TPF Board and communities only expect occasional support from the Advisory Board.
+The role of the Advisory Board is to support TPRF Board in a non-voting capacity. The aim is to have access to tacit knowledge and experience. Apart from general dialogue between the members, TPF Board and communities only expect occasional support from the Advisory Board.
 
 ## Who can sit on the Advisory Board?
 
@@ -41,19 +37,20 @@ The position of Chair and liaison with TPRF Board is held by the sitting TPRF pr
 
 ## What is expected of a member of the Advisory Board?
 
-Members provide help and assistance to our organization where possible for future and historical issues. TPRF Board may occasionally invite Advisory Board members to join board meetings.
+Advisory Board members will:
 
-All members of the Advisory Board are expected to be exemplars of professional behavior and role models for our community.
-
-Advisory Board members will be listed on TPRF website along with a one-line bio and photo. They will be subscribed to the Advisory Board low traffic email list.
+- provide help and assistance to our organization where possible for future and historical issues
+- Join occasional board meetings when requested, no more than twice per year
+- be expected to be exemplars of professional behavior and role models for our community
+- be listed on TPRF website and give permission for a short bio and picture to be displayed
+- be subscribed to the Advisory Board low traffic email list.
 
 
 ## Advisory board members
 
-Who is on the Advisory Board?
+Who are the Advisory Board members?
 
 - Allison Randal
 - Dan Wright
 - Nat Torkington
-
 
